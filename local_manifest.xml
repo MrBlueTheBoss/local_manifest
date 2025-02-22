@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github" fetch="https://github.com/" />
 
     <!-- Device Trees -->
     <project path="device/xiaomi/bouquet-common" name="Bouquet-Dynamic-Development/android_device_xiaomi_bouquet-common" remote="github" revision="lineage-22.1" />
