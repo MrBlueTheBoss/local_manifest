@@ -18,5 +18,5 @@
     <project path="hardware/qcom-caf/common" name="MrBlueTheBoss/android_hardware_qcom-caf_common" remote="github" revision="lineage-22.1" />
     <project path="hardware/qcom-caf/bouquet/media" name="Whyred-Dynamic-Development/android_hardware_qcom_media" remote="github" revision="13-4.19" />
     <project path="hardware/qcom-caf/bouquet/audio" name="Whyred-Dynamic-Development/android_hardware_qcom_audio" remote="github" revision="13-4.19" />
-    <project path="hardware/qcom-caf/bouquet/display" name="Whyred-Dynamic-Development/android_hardware_qcom_display" remote="github" revision="13-4.19" />
+    <project path="hardware/qcom-caf/bouquet/display" name="Whyred-Dynamic-Development/android_hardware_qcom_display" remote="github" revision="lineage-22.1" />
 </manifest>
